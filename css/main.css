@@ -466,11 +466,11 @@ transform: translateX(-50%);}
   position: relative;
 }
 .video_box video{
-  width: 80%;
+  width: 100%;
 }
 
 .video_box .video_txt{
-  position: absolute; top: 50%; left: 30px;
+  position: absolute; top: 18px; left: 20px;
 }
 
 @media (min-width:758px){
@@ -634,7 +634,7 @@ transform: translateX(-50%);}
     display: block;
     background: url(../img/logo.png) no-repeat left;
     background-size: 100%;
-    margin-left: 0;
+    margin-left: 40px;
   }
 
   nav{
@@ -703,7 +703,7 @@ transform: translateX(-50%);}
   }
   
   .video_box .video_txt{
-    position: absolute; top: 70px; left: 30px;
+    position: absolute; top: 70px; left: 50px;
   }
 
   .paging{
