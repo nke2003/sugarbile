@@ -466,7 +466,7 @@ transform: translateX(-50%);}
   position: relative;
 }
 .video_box video{
-  width: 100%;
+  width: 1920px;
 }
 
 .video_box .video_txt{
