@@ -151,7 +151,7 @@ span{
   text-align: center;
   font-size: 18px;
   font-weight: 400;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   background-size: 70%;
 }
 .img01_sub_txt03{
@@ -437,7 +437,7 @@ span{
 
   nav li a{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 18px;
   }
 
   .img01, .img02, .img03{height: 400px;}
