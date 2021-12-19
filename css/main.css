@@ -737,7 +737,7 @@ transform: translateX(-50%);}
   .img01_box01 > div{
     margin-right: 30px;
     width: calc((100%) - 60px / 3);
-    height: 300px;
+    height: 350px;
     margin-bottom: 20px;
   }
 
@@ -761,7 +761,7 @@ transform: translateX(-50%);}
     color: #fff;
     position: absolute;
     top: 20px;
-    left: 60px;
+    left: 65px;
   }
   
   .img01_box01 p{display: block;}
