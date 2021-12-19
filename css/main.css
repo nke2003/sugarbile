@@ -506,6 +506,7 @@ transform: translateX(-50%);}
   .menu{display: none;}
 
   nav ul{
+    padding: 10px;
     display: flex;
     justify-content: center;
   }
