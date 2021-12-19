@@ -373,7 +373,6 @@ h5{
   .menu{display: none;}
 
   nav ul{
-    padding: 10px;
     display: flex;
     justify-content: center;
   }
@@ -385,8 +384,6 @@ h5{
     line-height: 32px;
     }
     
-  nav li{margin-right: 50px;}
-  nav li:last-child{margin-right: 0;}
 
   nav ul li a:hover{
     transition: all 0.3s;
