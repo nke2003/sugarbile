@@ -525,7 +525,6 @@ h5{
     display: block;
     background: url(../img/logo.png) no-repeat left;
     background-size: 100%;
-    margin-left: 40px;
   }
 
   nav{
@@ -564,7 +563,7 @@ h5{
     width: calc((100%) / 2);
     height: 245px;
     background: url(../sub01_img/icon01.png) no-repeat center;
-    background-size: 35%;
+    background-size: 33%;
     float: left;
     transition: all 0.3s;
   }
@@ -603,7 +602,7 @@ h5{
     width: calc((100%) / 2);
     height: 245px;
     background: url(../sub01_img/icon02.png) no-repeat center;
-    background-size: 35%;
+    background-size: 33%;
     float: left;
     transition: all 0.3s;
   }
@@ -644,13 +643,13 @@ h5{
   }
   
   .icon01_wrap:hover > .icon01_txt_wrap{transform: 1.1);}
-  .icon01_wrap:hover > .icon01{background-size: 30%;}
+  .icon01_wrap:hover > .icon01{background-size: 28%;}
   
   .icon02_wrap:hover > .icon02_txt_wrap{transform: 1.1;}
-  .icon02_wrap:hover > .icon02{background-size: 30%;}
+  .icon02_wrap:hover > .icon02{background-size: 28%;}
   
   .icon03_wrap:hover > .icon03_txt_wrap{transform: 1.1;}
-  .icon03_wrap:hover > .icon03{background-size: 30%;}
+  .icon03_wrap:hover > .icon03{background-size: 28%;}
   
   
   .icon02_wrap:hover{
