@@ -235,14 +235,8 @@ h2{
     color: #2578DE;
   }
 
-  .board_box{
-    width: 85%;
-    margin: 0 auto;
-  }
-
   .board_box_wrap01, .board_box_wrap02{
     float: left;
-    width: calc((99%) / 2);
   }
 }
 
