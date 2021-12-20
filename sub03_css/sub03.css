@@ -386,7 +386,7 @@ span{
   }
   .all_01, .all_02{
     float: left;
-    width: calc((50%));
+    width: calc((50%);
   }
 
   .all_03, .all_04, .all_05{
@@ -396,7 +396,7 @@ span{
 
   .all_06, .all_07{
     float: left;
-    width: calc((50%));
+    width: calc((50%);
   }
   .more01{margin-bottom: 20px;}
 }
