@@ -380,17 +380,17 @@ span{
 
   .all_01, .all_02{
     float: left;
-    width: calc((100%) / 2);
+    width: 50%;
   }
 
   .all_03, .all_04, .all_05{
     float: left;
-    width: calc((100%) / 3);
+    width: 33.3%;
   }
 
   .all_06, .all_07{
     float: left;
-    width: calc((100%) / 2);
+    width: 50%;
   }
 
   .more01{margin-bottom: 20px;}
