@@ -233,7 +233,7 @@ h5{
 .img01_box01 p{display: none;}
 
 .img01_box01{
-  width: calc((100%) / 2);
+  width: 50%;
 }
 .img01_box01:nth-child(2n){margin-right: 0;}
 
@@ -654,7 +654,7 @@ transform: translateX(-50%);}
   h6{font-size: 28px;}
   
   .img01_box01{
-    width: calc((100%) / 3);
+    width: 33.33%
   }
 
   .wrap_04 > div{float: left;}
@@ -863,6 +863,3 @@ transform: translateX(-50%);}
   .box07_txt, .box08_txt, .box09_txt{font-size: 22px;}
 
 }
-
-
-

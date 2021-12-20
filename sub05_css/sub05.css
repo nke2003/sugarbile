@@ -235,7 +235,7 @@ h2{
 
   .board_box_wrap01{
     float: left;
-    width: calc((50% - 20px);
+    width: 50%;
   }
 
   .board_box_wrap02{
