@@ -164,7 +164,7 @@ h2{
 }
 
 .icon01{
-  width: calc((100%) / 2);
+  width: calc((50%) / 2);
   height: 205px;
   background: url(../sub01_img/icon01.png) no-repeat center;
   background-size: 50%;
@@ -173,7 +173,7 @@ h2{
 }
 .icon01_txt_wrap{
   padding-top: 20px;
-  width: calc((100%) / 2);
+  width: calc((50%) / 2);
   float: right;
   margin-bottom: 30px;
   transition: all 0.3s;
@@ -490,7 +490,7 @@ h5{
   }
   
   .icon01{
-    width: calc((100%) / 2);
+    width: calc((50%) / 2);
     height: 205px;
     background: url(../sub01_img/icon01.png) no-repeat center;
     background-size: 50%;
@@ -499,7 +499,7 @@ h5{
   }
   .icon01_txt_wrap{
     padding-top: 40px;
-    width: calc((100%) / 2);
+    width: calc((10%) / 2);
     float: right;
     margin-bottom: 30px;
     transition: all 0.3s;
@@ -629,7 +629,7 @@ h5{
   }
 
   .icon01{
-    width: calc((100%) / 2);
+    width: calc((50%) / 2);
     height: 245px;
     background: url(../sub01_img/icon01.png) no-repeat center;
     background-size: 33%;
@@ -638,7 +638,7 @@ h5{
   }
   .icon01_txt_wrap{
     padding-top: 45px;
-    width: calc((100%) / 2);
+    width: calc((50%) / 2);
     float: right;
     margin-bottom: 30px;
     transition: all 0.3s;
