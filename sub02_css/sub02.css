@@ -114,8 +114,8 @@ h2{
 }
 .img01{
   height: 300px;
-  background: url(../sub02_img/img01.jpg) no-repeat cover;
-  background-size: 110%;
+  background: url(../sub02_img/img01.jpg) no-repeat center;
+  background-size: cover;
   position: relative;
   overflow: hidden;
   border-radius: 18px;
