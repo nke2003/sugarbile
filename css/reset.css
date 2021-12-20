@@ -3,19 +3,19 @@
 @font-face{
   font-family: 'NanumSquare';
   font-style: normal;
-  font-weight: 400; /* normal */
-  src: url(../font/NanumSquareR.eot) format('eot');
-  src: url(../font/NanumSquareR.woff) format('woff');
-  src: url(../font/NanumSquareR.woff2) format('woff2');
+  font-weight: 300; /* bold */
+  src: url(../font/NanumSquareL.eot) format('eot');
+  src: url(../font/NanumSquareL.woff) format('woff');
+  src: url(../font/NanumSquareL.woff2) format('woff2');
 }
 
 @font-face{
   font-family: 'NanumSquare';
   font-style: normal;
-  font-weight: 800; /* bold */
-  src: url(../font/NanumSquareL.eot) format('eot');
-  src: url(../font/NanumSquareL.woff) format('woff');
-  src: url(../font/NanumSquareL.woff2) format('woff2');
+  font-weight: 400; /* normal */
+  src: url(../font/NanumSquareR.eot) format('eot');
+  src: url(../font/NanumSquareR.woff) format('woff');
+  src: url(../font/NanumSquareR.woff2) format('woff2');
 }
 
 @font-face{
