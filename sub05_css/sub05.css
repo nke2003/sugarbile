@@ -118,11 +118,12 @@ h2{
 .board_box{
   position: relative;
   margin-bottom: 60px;
+  padding: 20px;
 }
 
 .board_box h3{font-size: 36px; margin-bottom: 30px;}
 .board_box .all_view{
-  position: absolute; top: 15px; right: 0;
+  position: absolute; top: 15px; right: 20px;
   font-size: 15px;
 }
 .board_box .list{border-top: 2px solid #666;}
