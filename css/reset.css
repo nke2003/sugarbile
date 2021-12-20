@@ -1,24 +1,40 @@
 @charset "utf-8";
 
 @font-face{
-  font-family: NanumSquare;
+  font-family: 'NanumSquare';
   font-style: normal;
   font-weight: 400; /* normal */
-  src: local(NanumSquareR);
-  src: url(font/NanumSquareR.eot), /* IE 6~8, IE 호환성보기 */
-  url(font/NanumSquareR.woff2) format('woff2'),
-  url(font/NanumSquareR.woff) format('woff');
-
+  src: url(../font/NanumSquareR.eot) format('eot');
+  src: url(../font/NanumSquareR.woff) format('woff');
+  src: url(../font/NanumSquareR.woff2) format('woff2');
 }
 
 @font-face{
-  font-family: NanumSquare;
+  font-family: 'NanumSquare';
   font-style: normal;
   font-weight: 800; /* bold */
-  src: local(NanumSquareB);
-  src: url(font/NanumSquareB.eot), /* IE 6~8, IE 호환성보기 */
-  url(font/NanumSquareB.woff2) format('woff2'),
-  url(font/NanumSquareB.woff) format('woff');
+  src: url(../font/NanumSquareL.eot) format('eot');
+  src: url(../font/NanumSquareL.woff) format('woff');
+  src: url(../font/NanumSquareL.woff2) format('woff2');
+}
+
+@font-face{
+  font-family: 'NanumSquare';
+  font-style: normal;
+  font-weight: 800; /* bold */
+  src: url(../font/NanumSquareB.eot) format('eot');
+  src: url(../font/NanumSquareB.woff) format('woff');
+  src: url(../font/NanumSquareB.woff2) format('woff2');
+}
+
+
+@font-face{
+  font-family: 'NanumSquare';
+  font-style: normal;
+  font-weight: 800; /* bold */
+  src: url(../font/NanumSquareEB.eot) format('eot');
+  src: url(../font/NanumSquareEB.woff) format('woff');
+  src: url(../font/NanumSquareEB.woff2) format('woff2');
 }
 
 *{margin: 0; padding: 0; box-sizing: border-box;}
