@@ -377,27 +377,22 @@ span{
     color: #2578DE;
   }
   
-  .all_wrap{
-    margin: 0 auto;
-  }
 
-  .all_wrap02{
-    margin: 0 auto;
-  }
   .all_01, .all_02{
     float: left;
-    width: calc((50%);
+    width: calc((100%) / 2);
   }
 
   .all_03, .all_04, .all_05{
     float: left;
-    width: calc((99%) / 3);
+    width: calc((100%) / 3);
   }
 
   .all_06, .all_07{
     float: left;
-    width: calc((50%);
+    width: calc((100%) / 2);
   }
+
   .more01{margin-bottom: 20px;}
 }
 
