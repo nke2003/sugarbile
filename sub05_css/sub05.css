@@ -242,7 +242,7 @@ h2{
 
   .board_box_wrap01, .board_box_wrap02{
     float: left;
-    width: calc((100%) / 2);
+    width: calc((99%) / 2);
   }
 }
 
