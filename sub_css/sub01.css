@@ -428,7 +428,7 @@ h5{
   .menu{display: none;}
   
   .main{
-    font-size: 0;
+    font-size: 1px;
     color: transparent;
     width: 250px;
     display: block;
@@ -587,7 +587,7 @@ h5{
   .menu{display: none;}
   
   .main{
-    font-size: 0;
+    font-size: 1px;
     color: transparent;
     width: 250px;
     display: block;
