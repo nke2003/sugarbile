@@ -201,7 +201,7 @@ h3{
 }
 
 .icon02{
-  width: calc((100%) / 2);
+  width: calc((50%) / 2);
   height: 220px;
   background: url(../sub01_img/icon02.png) no-repeat center;
   background-size: 50%;
@@ -211,7 +211,7 @@ h3{
 .icon02_txt_wrap{
   box-sizing: border-box;
   padding-top:  30px;
-  width: calc((100%) / 2);
+  width: calc((50%) / 2);
   float: right;
   margin-bottom: 30px;
   transition: all 0.3s;
@@ -265,7 +265,7 @@ h4{
 }
 
 .icon03{
-  width: calc((100%) / 2);
+  width: calc((50%) / 2);
   height: 200px;
   background: url(../sub01_img/icon03.png) no-repeat center;
   background-size: 50%;
@@ -275,7 +275,7 @@ h4{
 .icon03_txt_wrap{
   box-sizing: border-box;
   padding-top:  30px;
-  width: calc((100%) / 2);
+  width: calc((50%) / 2);
   float: right;
   margin-bottom: 30px;
   transition: all 0.3s;
@@ -526,7 +526,7 @@ h5{
   }
   
   .icon02{
-    width: calc((100%) / 2);
+    width: calc((50%) / 2);
     height: 220px;
     background: url(../sub01_img/icon02.png) no-repeat center;
     background-size: 50%;
@@ -668,7 +668,7 @@ h5{
   }
   
   .icon02{
-    width: calc((100%) / 2);
+    width: calc((50%) / 2);
     height: 245px;
     background: url(../sub01_img/icon02.png) no-repeat center;
     background-size: 33%;
@@ -678,7 +678,7 @@ h5{
   .icon02_txt_wrap{
     box-sizing: border-box;
     padding-top:  40px;
-    width: calc((100%) / 2);
+    width: calc((50%) / 2);
     float: right;
     margin-bottom: 30px;
     transition: all 0.3s;
@@ -732,7 +732,7 @@ h5{
   }
   
   .icon03{
-    width: calc((100%) / 2);
+    width: calc((50%) / 2);
     height: 220px;
     background: url(../sub01_img/icon03.png) no-repeat center;
     background-size: 35%;
@@ -742,7 +742,7 @@ h5{
   .icon03_txt_wrap{
     box-sizing: border-box;
     padding-top:  40px;
-    width: calc((100%) / 2);
+    width: calc((50%) / 2);
     float: right;
     margin-bottom: 30px;
     transition: all 0.3s;
