@@ -105,7 +105,7 @@ nav li a{display: none;}
 }
 
 .sub_tit01{
-  color:#ffff;
+  color:#fff;
   font-size: 13px;
   font-weight: 400;
   box-sizing: border-box;
@@ -113,13 +113,13 @@ nav li a{display: none;}
 }
 
 .visual_img h2{
-  color:#ffff;
+  color:#fff;
   line-height: 30px;
   font-size: 23px;
 }
 
 .sub_tit02{
-  color:#ffff;
+  color:#fff;
   margin-top: 12px;
   font-size: 13px;
   font-weight: 400;
@@ -724,13 +724,13 @@ transform: translateX(-50%);}
   }
 
   .sub_tit01 {
-    color: #ffff;
+    color: #fff;
     font-size: 30px;
 }
   .visual_img h2 {
     margin-top: 20px;
     font-weight: 600;
-    color: #ffff;
+    color: #fff;
     line-height: 70px;
     font-size: 55px;
   }
@@ -739,7 +739,7 @@ transform: translateX(-50%);}
     line-height: 32px;
     font-weight:400 ;
     display: block;
-    color: #ffff;
+    color: #fff;
     font-size: 25px;
   }
   .visual_img .more {
