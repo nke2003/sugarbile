@@ -667,7 +667,7 @@ h5{
   }
   
   .icon02{
-    width: calc((50%) / 2);
+    width: 50%;
     height: 245px;
     background: url(../sub01_img/icon02.png) no-repeat center;
     background-size: 33%;
@@ -677,7 +677,7 @@ h5{
   .icon02_txt_wrap{
     box-sizing: border-box;
     padding-top:  40px;
-    width: calc((50%) / 2);
+    width: 50%;
     float: right;
     margin-bottom: 30px;
     transition: all 0.3s;
@@ -731,7 +731,7 @@ h5{
   }
   
   .icon03{
-    width: calc((50%) / 2);
+    width: 50%;
     height: 220px;
     background: url(../sub01_img/icon03.png) no-repeat center;
     background-size: 35%;
@@ -741,7 +741,7 @@ h5{
   .icon03_txt_wrap{
     box-sizing: border-box;
     padding-top:  40px;
-    width: calc((50%) / 2);
+    width: 50%;
     float: right;
     margin-bottom: 30px;
     transition: all 0.3s;
