@@ -117,7 +117,6 @@ h2{
 
 .board_box{
   position: relative;
-  margin-bottom: 60px;
   padding: 20px;
 }
 
@@ -141,7 +140,6 @@ h2{
 .board_box .list li:hover a strong{text-decoration: underline;}
 
 .footer{
-  margin-top: 50px;
   width: 100%;
   padding-top: 70px;
   padding-bottom: 35px;
