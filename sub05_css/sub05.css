@@ -116,8 +116,6 @@ h2{
 }
 
 .board_box{
-  margin: 0 auto;
-  width: 80%;
   position: relative;
   margin-bottom: 60px;
 }
@@ -235,10 +233,15 @@ h2{
     color: #2578DE;
   }
 
-  .board_box_wrap01, .board_box_wrap02{
+  .board_box_wrap01{
+    float: left;
+  }
+
+  .board_box_wrap02{
     float: left;
   }
 }
+
 
 @media (min-width:1024px){
   #wrap{
