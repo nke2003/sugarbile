@@ -645,20 +645,10 @@ transform: translateX(-50%);}
   .paging{
     left: 50%; bottom: -30%;
   }
-  .paging li{
-    float: left;
-    margin-right: 8px;
-  }
-  .paging li:last-child{margin-right: 6;}
-  .paging li a{
-    display: block;
-    width: 10px;
-    height: 10px;
-    font-size: 0;
-    color: transparent;
-  }
   
-  h5{font-size: 28px;}
+  h5{
+    font-size: 28px;
+  }
   .visual_title01{font-size:19px;}
 
   h6{font-size: 28px;}
@@ -798,7 +788,7 @@ transform: translateX(-50%);}
     margin: 0 auto;
   }
 
-  .img01_box01 > div{
+  .img01_box01{
     margin-right: 30px;
     width: calc((100%) - 60px / 3);
     height: 350px;
