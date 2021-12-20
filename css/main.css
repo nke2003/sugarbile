@@ -558,7 +558,7 @@ transform: translateX(-50%);}
   
   .main{
     font-size: 1px;
-    color: transparent;
+    color: #fff;
     width: 250px;
     display: block;
     background: url(../img/logo.png) no-repeat left;
@@ -587,6 +587,10 @@ transform: translateX(-50%);}
   nav ul li a:hover{
     transition: all 0.3s;
     color: #2578DE;
+  }
+
+  .main:hover{
+    color: transparent;
   }
   
   .visual{
