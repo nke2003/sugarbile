@@ -248,6 +248,7 @@ h5{
 
 .img01{
   background-image: url(../img/img01.jpg);
+  width: calc((100%) / 2);
 }
 .img02{background-image: url(../img/img02.jpg);}
 .img03{background-image: url(../img/img03.jpg);}
