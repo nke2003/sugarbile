@@ -414,6 +414,10 @@ span{
     background-size: 100%;
   }
 
+  .main:hover{
+    color: transparent;
+  }
+
   nav{
     height: 80px;
     background-color:#fff;
