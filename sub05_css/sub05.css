@@ -121,10 +121,16 @@ h2{
 }
 
 .board_box h3{font-size: 36px; margin-bottom: 30px;}
-.board_box .all_view{position: absolute; top: 15px; right: 0;}
+.board_box .all_view{
+  position: absolute; top: 15px; right: 0;
+  font-size: 15px;
+}
 .board_box .list{border-top: 2px solid #666;}
 .board_box .list li{border-bottom: 1px solid #ddd;}
-.board_box .list li a{display: block; padding: 20px 10px;}
+.board_box .list li a{
+  display: block; padding: 20px 10px;
+  font-size: 15px;
+}
 
 .board_box .list li a strong{
   display: block; float: left; font-weight: 800;
