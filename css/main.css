@@ -557,7 +557,7 @@ transform: translateX(-50%);}
   .menu{display: none;}
   
   .main{
-    font-size: 0;
+    font-size: 1px;
     color: transparent;
     width: 250px;
     display: block;
@@ -682,7 +682,7 @@ transform: translateX(-50%);}
   .menu{display: none;}
   
   .main{
-    font-size: 0;
+    font-size: 1px;
     color: transparent;
     width: 250px;
     display: block;
