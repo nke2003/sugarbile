@@ -246,7 +246,7 @@ h2{
 
   .all, .all_02{
     float: left;
-    width: calc((100%) / 2);
+    width: 50%;
   }
 
   .img01_txt_wrap{margin-bottom: 0;}
