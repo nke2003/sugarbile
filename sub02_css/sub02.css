@@ -324,6 +324,12 @@ span{
   transform: translateX(-50%);
 }
 
+.img_span{
+  background-color: #E2E8ED;
+}
+  
+}
+
 @media (min-width:758px){
   #wrap{
   min-width: 758px;}
